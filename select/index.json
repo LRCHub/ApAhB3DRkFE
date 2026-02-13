@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "La Gata Bajo la Lluvia",
+  "base_artist": "Rocío Dúrcal",
+  "createdAt": "2026-02-13T04:12:57.119256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Rosario",
+      "has_synced": true,
+      "path": "select/01_La_Gata_Bajo_la_Lluvia_Rosario.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/02_La_Gata_Bajo_la_Lluvia_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Rocio Durcal",
+      "has_synced": true,
+      "path": "select/03_La_Gata_Bajo_la_Lluvia_Rocio_Durcal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Gata Bajo La Lluvia",
+      "artist": "Rocío Durcal",
+      "has_synced": true,
+      "path": "select/04_La_Gata_Bajo_La_Lluvia_Rocío_Durcal.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/05_La_Gata_Bajo_la_Lluvia_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Erick Mendoza",
+      "has_synced": false,
+      "path": "select/06_La_Gata_Bajo_la_Lluvia_Erick_Mendoza.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Carlos Zaur",
+      "has_synced": true,
+      "path": "select/07_La_Gata_Bajo_la_Lluvia_Carlos_Zaur.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Ana Cirré",
+      "has_synced": false,
+      "path": "select/08_La_Gata_Bajo_la_Lluvia_Ana_Cirré.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Rocio Durcal",
+      "has_synced": true,
+      "path": "select/09_La_Gata_Bajo_la_Lluvia_Rocio_Durcal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La gata bajo la lluvia",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/10_La_gata_bajo_la_lluvia_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Rocio Durcal",
+      "has_synced": true,
+      "path": "select/11_La_Gata_Bajo_la_Lluvia_Rocio_Durcal.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "La Gata Bajo La Lluvia",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/12_La_Gata_Bajo_La_Lluvia_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "La Gata Bajo La Lluvia",
+      "artist": "Amparo Sánchez",
+      "has_synced": false,
+      "path": "select/13_La_Gata_Bajo_La_Lluvia_Amparo_Sánchez.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Devil Presley",
+      "has_synced": true,
+      "path": "select/14_La_Gata_Bajo_la_Lluvia_Devil_Presley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Rocio Durcal",
+      "has_synced": true,
+      "path": "select/15_La_Gata_Bajo_la_Lluvia_Rocio_Durcal.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Rocio Durcal",
+      "has_synced": true,
+      "path": "select/16_La_Gata_Bajo_la_Lluvia_Rocio_Durcal.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "la gata bajo la lluvia",
+      "artist": "roco durcal",
+      "has_synced": true,
+      "path": "select/17_la_gata_bajo_la_lluvia_roco_durcal.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "La gata bajo la lluvia",
+      "artist": "Daniel Maza",
+      "has_synced": true,
+      "path": "select/18_La_gata_bajo_la_lluvia_Daniel_Maza.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "La Gata Bajo la Lluvia",
+      "artist": "Edith Márquez",
+      "has_synced": true,
+      "path": "select/19_La_Gata_Bajo_la_Lluvia_Edith_Márquez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La Gata Bajo La Lluvia",
+      "artist": "Rocío Dúrcal",
+      "has_synced": false,
+      "path": "select/pl_01_La_Gata_Bajo_La_Lluvia_Rocío_Dúrcal.txt"
+    }
+  ]
+}
